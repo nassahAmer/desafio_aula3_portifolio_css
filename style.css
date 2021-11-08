@@ -1,0 +1,74 @@
+
+#port {
+  width: 60%;
+  border: 1px solid gray;
+  margin: 0 auto;
+  text-align: center;
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#port:hover {
+  border: black;
+  box-shadow: 0 8px 15px gray;
+  background-image: linear-gradient(rgb(248, 128, 128), rgb(252, 252, 115));
+}
+
+#foto {
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 100px;
+  margin: 10px auto;
+}
+
+#foto:hover {
+  border: black;
+  box-shadow: 0 0 15px gray;
+}
+
+img {
+  width: 200px;
+}
+
+#desc {
+  text-align: justify;
+  padding: 10px;
+}
+
+#redeSocial {
+  border: 1px solid lightgrey;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+#redeSocial:hover, a:hover {
+  background-color: rgb(247, 161, 80);
+  color: white !important;
+  font-weight: 700;
+}
+
+.creditos {
+  font-size: 10px;
+  padding: 5px;
+  margin: 5px 0 0 0;
+}
+
+p {
+  padding: 5px;
+  margin-top: 0;
+}
+
+h4 {
+  margin: 0;
+}
+
+a:link, a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+
+
+
